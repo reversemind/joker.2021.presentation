@@ -3,6 +3,8 @@
 Рабочее название доклада звучит как
 Shaken, not stirred - bunch of distributed teams in the single Spring Context
 
+
+
 300+ - teams 
 50+ - microservices
 
